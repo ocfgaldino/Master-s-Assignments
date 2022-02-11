@@ -1,0 +1,58 @@
+10/14/2014
+11:31:28
+Created by Short Cut (3.0)
+Short Cut Program:  D - M1.DEF
+
+-Wiring for CR1000-
+
+  WindSonic4 (SDI-12) Two Dimensional Ultrasonic Wind Sensor
+    Ground:  Clear
+    G:  Black
+    12V:  Red
+    C7:  Green
+
+  HC2S3 (constant power)
+    1H:  Brown
+    1L:  White
+    Ground:  Yellow
+    Ground:  Gray
+    Ground:  Clear
+    12V:  Green
+
+  CS106 Barometric Pressure Sensor
+    2H:  Blue (Brown)
+    Ground:  Yellow (White)
+    Ground:  Clear
+    G:  Black
+    12V:  Red
+    C1:  Green
+
+-Measurement Labels-
+
+  Default Measurements
+    BattV
+    PTemp_C
+
+  WindSonic4 (SDI-12) Two Dimensional Ultrasonic Wind Sensor
+    WindDir
+    WS_ms
+    WSDiag
+    SmplsF
+    Diag1F
+    Diag2F
+    Diag4F
+    Diag8F
+    Diag9F
+    Diag10F
+    NNDF
+
+  HC2S3 (constant power)
+    AirTC
+    RH
+
+  CS106 Barometric Pressure Sensor
+    BP_mbar
+
+-Measurement Labels, Created by Math Expressions-
+
+    10  BP_700
